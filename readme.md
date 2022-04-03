@@ -9,7 +9,7 @@ Users just need to run the Matlab program “main.m” to see the unmixed spectr
 ## Dataset
 1. Ternary Dataset (N3.mat)
 2. Quinary Dataset (N5.mat)
-3. Hyperspectral Image Dataset (triangle.mat)
+3. Composition Dataset (triangle.mat)
 
 ## Contribution
 This algorithm is designed and implemented by Chia-Hsiang Lin. The dataset is designed and collected by Yi-Chun Hung and Feng-Yu Wang. 
